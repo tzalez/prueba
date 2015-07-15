@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-       <?php echo '<p>Hola Mundo y esos Aliens y el Campos</p>'; ?>
+       <?php echo '<p>Hola Mundo y esos Aliens y el Campos de trigoooooo</p>'; ?>
     </body>
 </html>
